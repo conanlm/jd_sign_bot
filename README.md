@@ -23,8 +23,8 @@
 
 要按上面方式获取Cookie，否则运行失败
 
-输入地址 https://plogin.m.jd.com/login/login
+~~输入地址 https://plogin.m.jd.com/login/login
 
-copy(document.cookie)
+~~copy(document.cookie)
 
 
