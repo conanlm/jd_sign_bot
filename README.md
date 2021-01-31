@@ -27,4 +27,3 @@
 
 ~~copy(document.cookie)~~
 
-
